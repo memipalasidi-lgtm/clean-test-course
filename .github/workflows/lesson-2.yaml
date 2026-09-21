@@ -21,7 +21,6 @@ jobs:
       - name: '**PLACEHOLDER** Deploy to Elastic Beanstalk'
         run: echo Placeholder for Deployment
 
-jobs:
   unit-test:
     runs-on: ubuntu-latest
     defaults:
